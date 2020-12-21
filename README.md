@@ -1,5 +1,6 @@
-# wholesomeness_scanner
+# fantasy_scanner
 
-A new Flutter project.
+Flutter app.
 
+https://play.google.com/store/apps/details?id=com.tripledash.wholesomeness_scanner
 
