@@ -1,0 +1,128 @@
+{
+  "@@last_modified": "2020-09-10T23:21:48.437080",
+  "loadingMessage": "Loading..",
+  "@loadingMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "titleName": "assets/engBlank.png",
+  "@titleName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startWord": "Start",
+  "@startWord": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectMessage": "Select your Sex",
+  "@selectMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maleMessage": "Male",
+  "@maleMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "femaleMessage": "Female",
+  "@femaleMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "acceptMessage": "Accept",
+  "@acceptMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectSexMessage": "Indicate your sex!",
+  "@selectSexMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectSexAlert": "Indicate your sex!",
+  "@selectSexAlert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holdMessage": "Hold the scanner to fill the bar!",
+  "@holdMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holdButtonMessage": "Hold me!",
+  "@holdButtonMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "congratulationsMessage": "Congratulations!",
+  "@congratulationsMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youAreMessage": "You are a",
+  "@youAreMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareMessage": "Share!",
+  "@shareMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onShareText": "The test says i am a",
+  "@onShareText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onShareText2": "Try for yourself! ",
+  "@onShareText2": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "privacyMessage": "View Privacy Policy",
+  "@privacyMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "dragonMessage": "Dragon!",
+  "@dragonMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "phoenixMessage": "Phoenix!",
+  "@phoenixMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "fairyMessage": "Fairy!",
+  "@fairyMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "unicornMessage": "Unicorn!",
+  "@unicornMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "wholesomenessMessage": "Wholesomeness",
+  "@wholesomenessMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "helpMessage": "Conducive to or suggestive of good health and physical well-being.",
+  "@helpMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "imaginationMessage": "Imagination",
+  "@imaginationMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "logicMessage": "Logic",
+  "@logicMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

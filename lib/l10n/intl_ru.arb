@@ -1,0 +1,128 @@
+{
+  "@@last_modified": "2020-09-10T23:21:48.437080",
+  "loadingMessage": "Загрузка..",
+  "@loadingMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "titleName": "assets/rusBlank.png",
+  "@titleName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startWord": "Начать",
+  "@startWord": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectMessage": "Укажите ваш биологический пол!",
+  "@selectMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maleMessage": "Муж",
+  "@maleMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "femaleMessage": "Жен",
+  "@femaleMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "acceptMessage": "Принять",
+  "@acceptMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectSexMessage": "Укажите ваш пол!",
+  "@selectSexMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectSexAlert": "Укажите ваш пол!",
+  "@selectSexAlert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holdMessage": "Заполните шкалу удерживая сканер!",
+  "@holdMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holdButtonMessage": "Удерживать",
+  "@holdButtonMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "congratulationsMessage": "Поздравляем!",
+  "@congratulationsMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youAreMessage": "Вы",
+  "@youAreMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareMessage": "Поделись!",
+  "@shareMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onShareText": "Тест говорит, что я ",
+  "@onShareText": {
+    "type": "text",
+    "placeholders": {}
+  }
+    "onShareText2": "Пройди сам!",
+  "@onShareText2": {
+    "type": "text",
+    "placeholders": {}
+  }
+    "privacyMessage": "Посмотреть Политику Конфиденциальности",
+  "@privacyMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+    "dragonMessage": "Дракон!",
+  "@dragonMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "phoenixMessage": "Феникс!",
+  "@phoenixMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "fairyMessage": "Фея!",
+  "@fairyMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "unicornMessage": "Единорог!",
+  "@unicornMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "wholesomenessMessage": "Благотворность",
+  "@wholesomenessMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+    "helpMessage": "Cпособствует или предполагает хорошее здоровье и физическое благополучие.",
+  "@helpMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+    "imaginationMessage": "Воображение",
+  "@imaginationMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "logicMessage": "Логика",
+  "@logicMessage": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

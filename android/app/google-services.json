@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716337347027",
+    "firebase_url": "https://wholesomeness-scanner.firebaseio.com",
+    "project_id": "wholesomeness-scanner",
+    "storage_bucket": "wholesomeness-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716337347027:android:70374c71289cec25d4d726",
+        "android_client_info": {
+          "package_name": "com.tripledash.wholesomeness_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716337347027-j4hjmtjph18vu8cqa1n73ljp4egfkb1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm9Kq_-gxmcS1H_TYSTemAboJ2uJCjU1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716337347027-j4hjmtjph18vu8cqa1n73ljp4egfkb1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
